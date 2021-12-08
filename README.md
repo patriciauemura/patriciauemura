@@ -6,7 +6,8 @@ I am passionate about technologies and love to learn new things.
 
 ## 👩‍💻 About me
 - <img src="https://user-images.githubusercontent.com/75175561/145031994-bb208df9-b860-4362-8b73-f1945ade92fa.png" width="20px">  I'm from Brazil, São Paulo
-- Love Technology
+- 💻 Love Technology
+- 📚 Knowledge in admin, finance and marketing
 
 
 
@@ -22,10 +23,11 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-## 📫 Get in touch
+## 📫 Reach me
 <div> 
 <a href = "mailto:patriciauemura53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/patriciauemura53" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/patriciauemura53" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://web.dio.me/users/patriciauemura53?tab=achievements" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" target="_blank" width="80px"></a>      
 </div>
 
 
