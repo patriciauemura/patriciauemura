@@ -27,7 +27,6 @@
   <a href="https://www.linkedin.com/in/patriciauemura53/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://web.dio.me/users/patriciauemura53?tab=achievements" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" target="_blank" width="80px"></a> 
  
-  ![Snake animation](https://github.com/patriciauemura/patriciauemura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
